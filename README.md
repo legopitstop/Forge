@@ -1,5 +1,3 @@
 # Forge Mods
 
-## Table of Contents
-- [Basalt Blocks](./Basalt_Blocks/README.md)
-- [Construction Blocks](./Construction_Blocks/README.md)
+This repository has been archived. All projects have been split into separate repos in [lpsmods](https://github.com/orgs/lpsmods/repositories)
